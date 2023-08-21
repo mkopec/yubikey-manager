@@ -44,7 +44,7 @@ import logging
 logger = logging.getLogger(__name__)
 
 
-YK_READER_NAME = "yubico yubikey"
+YK_READER_NAME = "solokeys solo 2"
 
 
 # Figure out what the PID should be based on the reader name
